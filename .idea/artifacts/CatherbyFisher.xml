@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CatherbyFisher">
+    <output-path>$USER_HOME$/DreamBot/Scripts/</output-path>
+    <root id="archive" name="CatherbyFisher.jar">
+      <element id="module-output" name="CatherbyFisher" />
+    </root>
+  </artifact>
+</component>
